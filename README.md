@@ -7,7 +7,6 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-pink.svg?logo=Instagram&logoColor=white)](https://instagram.com/sulfurrrjw) 
 [![velog](https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white)](https://velog.io/@legendofjiwon/posts)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](https://velog.io/@legendofjiwon/posts)
 
 
 # 👩🏻‍💻 Tech Stack:
