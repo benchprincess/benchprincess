@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials:
-[![velog](https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white)](https://velog.io/@legendofjiwon/posts)
+[![velog](https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white)](https://velog.io/@benchprincess/posts)
 
 
 # 👩🏻‍💻 Tech Stack:
