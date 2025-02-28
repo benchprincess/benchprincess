@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=66ffff&height=300&section=header&text=Jiwon%20Hwang&fontSize=90)
 
  # 💫 About Me:
-🌱 I'm currently learning for FastAPI
+🌱 I'm currently learning for Back-end skill(Python, Django, AWS EC2)
 
 
 ## 🌐 Socials:
