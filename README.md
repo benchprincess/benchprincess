@@ -102,7 +102,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=benchprincess&show_icons=true&include_all_commits=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=benchprincess&show_icons=true&theme=dark&cache_seconds=21600" />
 
 <br/>
 
@@ -113,3 +113,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benchprincess&layout=compact&theme=dark" />
 
 </div>
+
