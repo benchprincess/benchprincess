@@ -96,10 +96,4 @@
 🔗 Blog  
 [Velog](https://velog.io/@benchprincess/posts)
 
----
-
-## 📊 GitHub Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=benchprincess" />
-
 
