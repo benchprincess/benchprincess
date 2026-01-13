@@ -51,6 +51,8 @@
 **Tech**  
 `Python3.12+` `FastAPI`  `WebRTC` `React` `Redis` `Docker` `AWS`
 
+---
+
 ### [💒 OurHour (진행 중)](https://github.com/orgs/OurHourWedly/repositories)
 > 모바일 청첩장 제작 및 공유 서비스
 
