@@ -100,17 +100,6 @@
 
 ## 📊 GitHub Activity
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=benchprincess" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=benchprincess&show_icons=true&theme=dark&cache_seconds=21600" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=benchprincess&theme=dark" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benchprincess&layout=compact&theme=dark" />
-
-</div>
 
