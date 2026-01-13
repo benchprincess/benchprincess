@@ -51,7 +51,7 @@
 **Tech**  
 `Python3.12+` `FastAPI`  `WebRTC` `React` `Redis` `Docker` `AWS`
 
-[### 💒 OurHour (진행 중)](https://github.com/orgs/OurHourWedly/repositories)
+### [💒 OurHour (진행 중)](https://github.com/orgs/OurHourWedly/repositories)
 > 모바일 청첩장 제작 및 공유 서비스
 
 - Django(DRF)를 통하여 MVP 기능 구현 완료
@@ -62,7 +62,7 @@
 
 ---
 
-[### 🔁 WeShare](https://github.com/SWYP-8-TEAM14/WeShare_BE) 
+### [🔁 WeShare](https://github.com/SWYP-8-TEAM14/WeShare_BE) 
 > 사용자 간 리소스 공유 서비스
 
 - 도메인 중심으로 모델 구조 재정의
@@ -74,7 +74,7 @@
 
 ---
 
-[### 💬 오늘의 메세지](https://github.com/benchprincess/fortune_project)
+### [💬 오늘의 메세지](https://github.com/benchprincess/fortune_project)
 > 간단한 콘텐츠 제공 웹 서비스
 
 - 서버 렌더링 기반 구조 설계
