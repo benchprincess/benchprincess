@@ -102,10 +102,14 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=benchprincess&theme=dark&hide_border=false&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=benchprincess&show_icons=true&include_all_commits=true&theme=dark" />
+
 <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=benchprincess&theme=dark&hide_border=false)
+
+<img src="https://streak-stats.demolab.com?user=benchprincess&theme=dark" />
+
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=benchprincess&theme=dark&layout=compact)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benchprincess&layout=compact&theme=dark" />
 
 </div>
