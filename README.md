@@ -62,6 +62,9 @@
 **Tech**  
 `Python3.12+` `Django` `React` `Redis` `Docker` `AWS` `GitHub Actions`
 
+**기간**
+2026.01 - 진행중
+
 ---
 
 ### [🔁 WeShare](https://github.com/SWYP-8-TEAM14/WeShare_BE) 
@@ -74,6 +77,9 @@
 **Tech**  
 `Python3.12+` `Django`
 
+**기간**
+2025.01 - 2025.03
+
 ---
 
 ### [💬 오늘의 메세지](https://github.com/benchprincess/fortune_project)
@@ -84,6 +90,9 @@
 
 **Tech**  
 `Python` `Django` `HTML` `CSS`
+
+**기간**
+2024.04 - 2024.05
 
 ---
 
